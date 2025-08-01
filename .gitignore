@@ -1,0 +1,12 @@
+# Cache files
+.cache
+__pycache__/
+
+# Folder with song backups
+backups/
+
+# File with last execution time
+last_run.txt
+
+# Secrets file with sensitive information
+secrets.py
